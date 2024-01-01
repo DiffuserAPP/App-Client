@@ -64,7 +64,7 @@ fun GhibliAppTheme(
 
     MaterialTheme(
         colorScheme = colorScheme,
-        typography = Typography,
+        typography = TypographyDefault,
         content = content
     )
 }
